@@ -1,5 +1,5 @@
 package pa1;
-import java.util.concurrent.atomic.AtomicBoolean;
+
 
 public class ClientThread extends Thread{
     
